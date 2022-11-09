@@ -1,0 +1,7 @@
+.i6z
+.*
+*.ipynb
+!.start_jupyter.sh
+nohup.out
+reporting-ws.jupyterlab-workspace
+!.gitignore
